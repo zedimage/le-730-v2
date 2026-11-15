@@ -1,0 +1,6 @@
+{
+  "name": "Riviera Nautique Prestige",
+  "description": "Résidences locatives de prestige au bord du fleuve Saint-Laurent à Repentigny — Plans d'étage interactifs, visites privées et conformité Loi 25.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
